@@ -121,7 +121,7 @@ This data type does not need any introduction anymore, because we have already u
 
 Much more could be mentioned if you wanted to go through the basics of the JavaScript language. We need control structures like *if()* and loops - *for, while* etc.. We are not looking at these now, they can easily be looked up, probably more easily than the data types. Or get familiar with them through [Codecademy](http://www.codecademy.com/)
 
-Another thing we need is operators. There are the common +, -, * and / operators and some more, which we will come across when working through examples. And here again, Codecademy is your friend if you wanr to become familiar with them. I mainly wanted to show the data types, because they have some quite unexpected characteristics.
+Another thing we need is operators. There are the common +, -, * and / operators and some more, which we will come across when working through examples. And here again, Codecademy is your friend, if you want to become familiar with them. I mainly wanted to show the data types, because they have some quite unexpected characteristics.
 
 One important concept is the different ways you can compare two values. You can use either == or === . When you use three equal signs that means you are checking that two values are not only identical in value, but are also of the same type.
 
