@@ -115,7 +115,7 @@ Try to always make sure that a value has the desired type.
 
 #### String
 
-This data type does not need any introduction anymore, because we have already used it a lot! Strings are defined by putting the value in double or single quotes. You can concatenate string with the *+* operator. Any value can be converted to a string with the *toString()* method
+This data type does not need any introduction anymore, because we have already used it a lot! Strings are defined by putting the value in double or single quotes. You can concatenate strings with the *+* operator. Values can be converted to a string with the *toString()* method
 
 #### Equal does not equal equal 
 
